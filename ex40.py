@@ -14,6 +14,10 @@ happy_bday = Song(["Happy birthday to you",
 bulls_on_parade = Song(["They rally around tha family",
                         "With pockets full of shells"])
 
+test = Song(["This is a test...", "... to try...", "... some colaboration"])
+                        
 happy_bday.sing_me_a_song()
 
 bulls_on_parade.sing_me_a_song()
+
+test.sing_me_a_song()
